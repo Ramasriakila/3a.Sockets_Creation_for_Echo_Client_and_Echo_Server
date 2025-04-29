@@ -17,7 +17,8 @@ Sockets Links.
 
 ## OUPUT :
 
-![image](https://github.com/user-attachments/assets/cb919061-c122-4184-ad2b-f7d2fcce8c69)
+![image](https://github.com/user-attachments/assets/248e7868-548c-48f8-858c-84ba002c0eb7)
+
 
 
 ## RESULT :
